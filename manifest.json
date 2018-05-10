@@ -1,7 +1,7 @@
 {
   "manifest_version": 2,
   "name": "DLsiteWarn",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "description": "DLサイト閲覧時に要注意サークルを表示する",
   "content_scripts": [
     {
@@ -9,8 +9,9 @@
       "js": ["js/jquery-3.1.1.min.js", "js/warncircle.js"]
     }
   ],
-  "background": {
-    "scripts": ["js/load_circles.js"],
-    "persistent": false
-  }
+  "permissions": [
+    "storage",
+    "tabs",
+    "contextMenus"
+  ]
 }

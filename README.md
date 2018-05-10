@@ -5,9 +5,8 @@ dlsiteで要注意サークルをわかりやすく表示するchrome extension�
 # 使い方
 
 1. このリポジトリをcloneする
-2. サークルリストをdata/caution_circle.jsonに書く（書式はdata/caution_circle_sample.jsonを参考に）
-3. chromeの拡張機能から、「パッケージ化されていない拡張機能を読み込む」で読み込む
-4. dlsiteにアクセスする
+2. chromeの拡張機能から、「パッケージ化されていない拡張機能を読み込む」で読み込む
+3. dlsiteにアクセスする
 
 # 注意
 
