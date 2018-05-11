@@ -4,9 +4,9 @@ dlsiteで要注意サークルをわかりやすく表示するchrome extension�
 
 # 使い方
 
-1. このリポジトリをcloneする
-2. chromeの拡張機能から、「パッケージ化されていない拡張機能を読み込む」で読み込む
-3. dlsiteにアクセスする
+[Chrome ウェブストア](https://chrome.google.com/webstore/detail/dlsitewarn/ipdaimdompnlnjdiinhmopifkndbainf?hl=ja)からchromeに追加してあげてください
+
+DLSiteのサークル名の横に要注意サークルに追加するボタンが表示されるので、それを押せば要注意サークルに追加できます
 
 # 注意
 
