@@ -1,7 +1,7 @@
 {
   "manifest_version": 3,
   "name": "DLsiteWarn",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "DLサイト閲覧時に要注意サークルを表示する",
   "content_scripts": [
     {
